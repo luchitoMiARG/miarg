@@ -56,12 +56,12 @@
 }
 
 #dni-template-front {
-    background-image: url('/res/dni-template.png');
+    background-image: url('../res/dni-template.png');
     background-size: 100%;
 }
 
 #dni-template-back {
-    background-image: url('/res/dni-template-back.png');
+    background-image: url('../res/dni-template-back.png');
     background-size: 100%;
 }
 
